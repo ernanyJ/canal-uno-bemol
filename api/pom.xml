@@ -126,6 +126,11 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
+                    <source>17</source>  <!-- ou a versão que estiver usando -->
+                    <target>17</target>
+                    <compilerArgs>
+                        <arg>-parameters</arg>
+                    </compilerArgs>
                     <annotationProcessorPaths>
                         <path>
                             <groupId>org.projectlombok</groupId>
@@ -135,6 +140,7 @@
                     </annotationProcessorPaths>
                 </configuration>
             </plugin>
+
 
             <plugin>
                 <groupId>org.springframework.boot</groupId>

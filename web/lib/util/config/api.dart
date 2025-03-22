@@ -13,7 +13,7 @@ class ApiClient {
   }
 
   // TODO: ajustar para usar url quando configurar o container
-  final _baseUrl = 'http://api:8080/api';
+  final _baseUrl = 'http://localhost:8080/api';
 
   ApiClient._internal() {
     _dio = Dio(
