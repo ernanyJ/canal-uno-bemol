@@ -1,0 +1,31 @@
+# Etapa de Build
+FROM eclipse-temurin:17-jdk AS build
+WORKDIR /app
+
+# Copiar arquivos necessários
+COPY .mvn/ .mvn
+COPY mvnw pom.xml ./
+
+# Garantir que o mvnw tenha permissão de execução
+RUN chmod +x mvnw
+
+# Baixar dependências para otimizar build em cache
+RUN ./mvnw dependency:go-offline
+
+# Copiar código-fonte e compilar
+COPY src ./src
+RUN ./mvnw package -DskipTests
+
+# Etapa Final
+FROM eclipse-temurin:17-jdk
+WORKDIR /app
+
+# Copiar o JAR gerado para a nova imagem
+COPY --from=build /app/target/*.jar app.jar
+
+# Expor a porta da aplicação
+EXPOSE 8080
+
+# Executar o JAR
+ENTRYPOINT ["java", "-jar", "app.jar"]
+

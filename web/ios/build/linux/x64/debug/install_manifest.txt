@@ -1,0 +1,14 @@
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/canaluno
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/lib/libflutter_secure_storage_linux_plugin.so
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/bemol.png
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/sti123/Downloads/canaluno-front/canaluno/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
