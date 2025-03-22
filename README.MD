@@ -47,10 +47,12 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
 
 ### Executando o Projeto
 
+Clone o repositório
+
 Para iniciar a aplicação, execute o seguinte comando na raiz do projeto:
 
 ```sh
-docker-compose up --build
+sudo docker compose up --build
 ```
 
 Esse comando irá:
