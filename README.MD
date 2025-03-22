@@ -3,7 +3,7 @@
 
 ### 📌 Clean Architecture
 
-Este projeto foi desenvolvido seguindo os princípios da **Clean Architecture**, garantindo uma estrutura modular, desacoplada e de fácil manutenção.
+Este projeto (back-end) foi desenvolvido seguindo os princípios da **Clean Architecture**, garantindo uma estrutura modular, desacoplada e de fácil manutenção.
 
 ### 💡 Por que Clean Architecture?
 Optei por essa abordagem para assegurar:
