@@ -56,6 +56,32 @@ Optei por essa abordagem para assegurar:
 
 Essa estrutura garante um código mais robusto e preparado para crescer junto com o projeto. 🚀
 
+### Questões:
+
+Questões:
+
+- A solução deve ser disponibilizada em Cloud ou On-premise?
+   
+  Optaria pela solução em Cloud. Essa escolha permite a escalabilidade de forma mais flexível, alémm de oferecer a alta disponibilidade que um serviço Omnichannel necessita. Essa abordagem também favorece a manutenção e que a infraestrutura se adapte conforme a necessidade.
+
+- Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, qual ferramenta acredita ser apropriada para o controle de tarefas da equipe? A ferramenta é ágil? -
+Você se sente capaz de liderar esta equipe? Por quê?
+   
+  Acredito que o Jira seja a ferramenta ideal para essa atividade, considerando que é uma ferramenta amplamente utilizada em ambientes ágeis devido a facilidade de gerenciamment de sprints, backlogs e acompanhamento de tarefas, além de favorecer a colaboração e transparência da equipe, ideal para a metodologia ágil.
+
+
+Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, qual
+ferramenta acredita ser apropriada para o controle de tarefas da equipe? A ferramenta é ágil? -
+Você se sente capaz de liderar esta equipe? Por quê
+  
+  Me faltam experiências práticas como líder, mas acredito que tenho as habilidades necessárias para coordenar uma equipe de quatro pessoas em um projeto. Ao longo da minha experiência, trabalhei tanto de forma independente quanto em equipe, sempre buscando soluções eficientes e organizadas. Já lidei com desafios complexos, onde precisei dividir tarefas, priorizar entregas e garantir a qualidade do produto final.
+
+- Se pudesse sugerir uma melhoria, mudança ou oportunidade, o que
+seria? - Acha válido esse desafio para o processo que está participando?
+
+  Sugeriria investir tempo para criação de testes automatizados.
+
+  Considero o desafio bastante válido para o processo seletivo. Ele permite avaliar não só competências técnicas na implementação de uma feature real, mas também a visão arquitetural, a capacidade de trabalhar com APIs externas, e a aptidão para pensar em escalabilidade e experiência omnichannel
 
 
 
